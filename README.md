@@ -2,4 +2,4 @@
 
 Replica de banderas utilizando display.  
 
- ![imagen a replicar](assets/imgs/imagen1.jpg)
+ ![imagen a replicar](assets/imgs/Imagen1.jpg)
